@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "genstab"]
 	path = genstab
 	url = https://github.com/cran/genstab
-	shallow = true
-	registered = true
 [submodule "minque"]
 	path = minque
 	url = https://github.com/cran/minque
-	shallow = true
-	registered = true
 [submodule "qgtools"]
 	path = qgtools
 	url = https://github.com/cran/qgtools
-	shallow = true
-	registered = true
