@@ -8,6 +8,3 @@
 [submodule "minque"]
 	path = minque
 	url = https://github.com/cran/minque
-[submodule "qgtools"]
-	path = qgtools
-	url = https://github.com/cran/qgtools
